@@ -5,8 +5,8 @@ N.O.V.A. 2026 대화형 의료 진단 AI 에이전트 대회 참가팀 '라이�
 
 | 구성 | 이름 | 관련 자료 |
 | --- | --- | --- |
-| 팀장 | 박경빈 | [GitHub](https://github.com/overjoy1008?tab=repositories) · [포트폴리오](https://drive.google.com/file/d/1MVLfTg1Am75TnWkmBLbALk2cbl-irDIK/view?usp=sharing) |
-| 팀원 | 박경륜 | [GitHub](https://github.com/Jeremy-0204) |
+| 팀장 | 박경빈 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/overjoy1008?tab=repositories) [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1MVLfTg1Am75TnWkmBLbALk2cbl-irDIK/view?usp=sharing) |
+| 팀원 | 박경륜 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jeremy-0204) |
 
 **Our Project Goal:**
 - 대화에서 증상과 시간 경과를 추출하는 기록 Agent / 의료 근거를 검색해 진단 후보를 갱신하는 추론 Agent / 후보를 구별할 질문과 검사를 고르는 행동 Agent 등 구현하기
